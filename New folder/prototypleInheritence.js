@@ -5,7 +5,7 @@
  * 🔁 This behavior is what enables inheritance in JavaScript.
  *
  * 💡 Here's where PROTOTYPE vs __PROTO__ comes into play.
- */
+ */ 
  
 /**
  * 🔹 __proto__

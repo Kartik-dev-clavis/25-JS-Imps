@@ -9,7 +9,7 @@
 // Inheritance using pure objects with Object.create
 const parent = {
   greet() {
-    console.log("Hello from parent!");
+    console.log("Hello from parent! ");
   }
 };
 
